@@ -1,10 +1,17 @@
 {
   "entries": [
     {
-      "header": "Friday Night Funkin'",
+      "header": "Friday Night Funkin': Rhombus Engine",
       "body": [
-        { "line": "A video game created by" },
-        { "line": "The Funkin' Crew Inc." }
+        { "line": "An FNF engine created by" },
+        { "line": "2 idiots who have nothing better to do" }
+      ]
+    },
+    {
+      "header": "Rhombus Engine Team",
+      "body": [
+        { "line": "LeonGamer" },
+        { "line": "Fastbreak383" }
       ]
     },
     {
